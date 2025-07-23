@@ -6,7 +6,7 @@ This project showcases a **Mobile App Signup Flow** UI/UX design created using *
 ---
 
 ## 🔗 Live Figma Prototype
-
+ 📁 [View Full Figma Design File](https://www.figma.com/design/8q0sfHutCwAGdj0RkS5OsK/E-commerce?node-id=0-1&t=roZhhSfaXZIL9joK-1)
 [▶️ View the Interactive Prototype](https://www.figma.com/proto/DPkw644vtb9PSLlUkR5SEz/NETFLIXXX?node-id=0-16&p=f&t=Tk50BSiymicNm4aF-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A3)
 
 ---
